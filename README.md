@@ -1,6 +1,6 @@
 # Сборка модов Minecraft 1.7.10 для сервера BloodSpace
 ### IP сервера: bloodspace.falixsrv.me
-### Запуск сервера: [falixnodes.net/startserver](https://falixnodes.net/startserver?ip=bloodspace.falixsrv.me)
+### Запуск сервера: [falixnodes.net/startserver](https://falixnodes.net/startserver?ip=bloodspace)
 Готовая сборка модифицированного клиента Minecraft версии 1.7.10, для игры на сервере **BloodSpace**. Содержит все необходимые моды и конфиги для корректной работы.
 
 ## 📦 Содержание сборки
